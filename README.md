@@ -1,4 +1,8 @@
-# Terria Map
+# rede-map
+
+Based on TerriaMap 0.4.6
+
+## Terria Map
 
 [![Build Status](https://github.com/TerriaJS/TerriaMap/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/TerriaJS/TerriaMap/actions/workflows/ci.yml) [![Docs](https://img.shields.io/badge/docs-online-blue.svg)](https://docs.terria.io/)
 
