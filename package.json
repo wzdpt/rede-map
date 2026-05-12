@@ -73,7 +73,7 @@
     "sass-loader": "^16.0.3",
     "style-loader": "^4.0.0",
     "svg-sprite": "^2.0.4",
-    "terriajs": "8.12.2",
+    "terriajs": "git+https://github.com/wzdpt/rede-terriajs.git",
     "terriajs-cesium": "23.0.2",
     "terriajs-plugin-api": "0.0.1-alpha.17",
     "terriajs-plugin-sample": "0.0.1-alpha.7",
